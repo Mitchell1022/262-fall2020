@@ -1,0 +1,4 @@
+app.js - Contains javscript code, that executes instructions.
+package.json - Transmites data in web applications.
+node_modules - Holds all the build tools. Some root libraries are stores here. 
+.gitignore - Makes sure some files untracked by git remain that way. 

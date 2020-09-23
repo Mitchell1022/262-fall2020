@@ -1,0 +1,5 @@
+My 2 App Ideas:
+
+1.) A textbook application for Calvin. I recently returned books and the process took a bit long and seemed like a process for the employees. We could make an application that could easily checkout books to students and pull the record of each student easily. Books would be processed under each student number, and it would allow quick access to what the student has rented or previousy purchased. 
+
+2.) RAMBLE. I running gambling app that promotes running. Players would put up challenges at certain distances (1-100--km) and at a certain wager of coins. The players would then have 3 days to run that distance and the app would track how fast you completed it in. The winner of the run would win the coins. There could be a leaderboard, record of fastest races, wins/losses, etc.

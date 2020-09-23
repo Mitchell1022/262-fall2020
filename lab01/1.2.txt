@@ -1,0 +1,23 @@
+Demographics:
+	-Class Level: Senior
+	-Major: BCS
+	-Letter Grades in CS 112 & 212: C & B-
+
+Technical:
+	-Javascript Applications: I have worked on some light projects in high school.
+	-SQL: Some exerience from last year, but not much
+	
+	-Slack: Last year to communicate with a group on a project.
+	-Trello: Last year to manage our team's work equality.
+	-Git/Github: I have experience from last year, in depositing our codes together in 1 place.
+
+-I am interested in working on the deskie project proposed. I believe it could be a very helpful and useful tool that would be very beneficial.
+
+Big 5 Trait Values
+	-O: 65%
+	-C: 54%
+	-E: 69%
+	-A: 81%
+	-N: 52%
+
+I do not have a preference about working with anybody. I am open to work with anyone :) 
