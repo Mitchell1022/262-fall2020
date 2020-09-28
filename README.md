@@ -1,2 +1,4 @@
 # 262-fall2020
-Fall 2020 CS-262
+
+## Times
+### MWF 2:30pm-3:20pm
