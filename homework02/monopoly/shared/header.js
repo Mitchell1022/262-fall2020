@@ -9,8 +9,8 @@ export default function Header({ navigation }) {
     }
 
     return (
-        <View>
-            <MaterialIcons name='menu' size={28} onPress={openMenu} style={StyleSheet.icon} />
+        <View style={styles.header}>
+            <MaterialIcons name='menu' size={28} onPress={openMenu} style={styles.icon} />
         </View>
     );
 };
