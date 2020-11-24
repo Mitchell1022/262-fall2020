@@ -1,0 +1,7 @@
+Changes made to DestinationGuide.js
+
+Changes Include:
+  -Fixed Indentation
+  -Removed unused import of useState
+  -Added Comments
+  -Fixed Spaceing Issues
